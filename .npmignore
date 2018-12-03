@@ -1,0 +1,7 @@
+.idea
+tests
+.circleci
+release.config.js
+commitlint.config.js
+.eslintrc.js
+.huskyrc.js
